@@ -3,7 +3,7 @@
   "short_name": "Addresi",
   "description": "Turn your address into a digital asset and navigate easily with Addresi.",
   "start_url": "https://www.addresi.com/home?source=pwa",
-  "scope": "https://www.addresi.com/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#7c2efa",
@@ -15,7 +15,7 @@
       "type": "image/png"
     },
     {
-      "src": "https://YOUR_GITHUB_USERNAME.github.io/addresi-pwa/icons/icon-512.png",
+      "src": "https://addresiweb-cyber.github.io/addresi-pwa/icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
