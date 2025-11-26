@@ -5,6 +5,7 @@
   "start_url": "https://www.addresi.com/home?source=pwa",
   "scope": "/",
   "display": "standalone",
+  "prefer_related_applications": false,
   "background_color": "#ffffff",
   "theme_color": "#7c2efa",
   "orientation": "portrait-primary",
@@ -21,3 +22,4 @@
     }
   ]
 }
+
