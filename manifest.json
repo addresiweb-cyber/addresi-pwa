@@ -1,11 +1,10 @@
 {
-  "name": "Addresi - Digital Home Address",
+  "name": "Addresi",
   "short_name": "Addresi",
   "description": "Turn your address into a digital asset and navigate easily with Addresi.",
-  "start_url": "https://www.addresi.com/home?source=pwa",
+  "start_url": "/home?source=pwa",
   "scope": "/",
   "display": "standalone",
-  "prefer_related_applications": false,
   "background_color": "#ffffff",
   "theme_color": "#7c2efa",
   "orientation": "portrait-primary",
@@ -22,4 +21,5 @@
     }
   ]
 }
+
 
